@@ -41,7 +41,7 @@
 
 Each experiment has a different procedure and requires installing specific dependencies. Please follow the links below to run the code for each experiment:
 
-- FKC CFG | Stable Diffusion (SD) XL: coming soon! (section 5.1)
+- [FKC CFG | Image generation with EDM2](/applications/images/edm2/README.md) (section 5.1)
 - [FKC Annealing | Temperature Annealing](/applications/temperature_annealing/README.md): temperature annealing experiments on 2D GMMs and 13-particle Lennard-Jones potential (section 5.2)
 - [FKC Product | Multi-Target Structure-Based Drug Design](/applications/molecules/dual_target_sbdd/README.md): generate 3D molecule simultaneously conditioned on two protein prockets using FKC product (section 5.3)
 
